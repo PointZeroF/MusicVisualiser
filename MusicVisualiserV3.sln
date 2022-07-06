@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MusicVisualiserV3", "MusicVisualiserV3\MusicVisualiserV3.pyproj", "{54DB1F2E-8F7A-4BCC-8A6C-AFCE2260332C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54DB1F2E-8F7A-4BCC-8A6C-AFCE2260332C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54DB1F2E-8F7A-4BCC-8A6C-AFCE2260332C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5C0FA4F-4EBE-446E-823D-3C9906E27FF0}
+	EndGlobalSection
+EndGlobal

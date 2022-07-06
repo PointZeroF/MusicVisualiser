@@ -1,0 +1,1 @@
+.\MusicVisualiserV3.exe -R -A STEST
